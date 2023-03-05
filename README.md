@@ -16,7 +16,7 @@ Once you have installed the required packages, you can run the app by running:
 streamlit run app.py
 ```
 
-Add your OpenAI API key to the file named `.env_example` and rename the file to `.env` then save.
+Add your [OpenAI](https://openai.com/pricing) API key to the file named `.env_example` and rename the file to `.env` then save.
 
 ## Usage
 
