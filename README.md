@@ -1,4 +1,4 @@
-# Whisper x ChatGPT App
+# 🤖 Converse with AI 🤖
 
 A Streamlit web application that allows users to record audio and have a conversation with OpenAI's GPT-3 language model. The app uses PyAudio to record audio, OpenAI's API to transcribe audio to text, and the GPT-3 language model to generate responses.
 
@@ -15,6 +15,8 @@ Once you have installed the required packages, you can run the app by running:
 ```
 streamlit run app.py
 ```
+
+Add your [OpenAI](https://openai.com/pricing) API key to the file named `.env_example` and rename the file to `.env` then save.
 
 ## Usage
 
