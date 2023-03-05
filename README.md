@@ -6,12 +6,14 @@ A Streamlit web application that allows users to record audio and have a convers
 
 To get started with this project, you'll need to install the required packages. You can do this by running:
 
-```pip install -r requirements.txt
+```
+pip install -r requirements.txt
 ```
 
 Once you have installed the required packages, you can run the app by running:
 
-```streamlit run app.py
+```
+streamlit run app.py
 ```
 
 ## Usage
