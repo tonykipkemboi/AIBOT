@@ -1,6 +1,5 @@
 openai==0.10.5
 PyAudio==0.2.13
-portaudio
 portaudio19-dev
 pyttsx3==2.90
 streamlit==0.88.0
