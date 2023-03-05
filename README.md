@@ -16,6 +16,8 @@ Once you have installed the required packages, you can run the app by running:
 streamlit run app.py
 ```
 
+Add your OpenAI API key to the file named `.env_example` and rename the file to `.env` then save.
+
 ## Usage
 
 To use the app, simply click the "Record" button and start speaking. The app will record your audio and transcribe it to text using OpenAI's API. It will then generate a response using the GPT-3 language model and display it on the screen. The app also includes a text-to-speech feature that can read the response aloud.
