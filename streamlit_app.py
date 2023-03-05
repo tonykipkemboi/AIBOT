@@ -147,8 +147,9 @@ def transcribe_audio(chats):
 
 
 def main():
-    # Set the app header
-    st.header("Whisper x ChatGPT App")
+    # Set the app
+    st.markdown("<h1 style='text-align: center; color: red;'>🤖 Converse with AI 🤖</h1>",
+                unsafe_allow_html=True)
     st.write('---')
 
     # Initialize pyttsx3 Text-to-Speech engine
