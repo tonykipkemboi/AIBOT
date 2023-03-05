@@ -1,0 +1,5 @@
+openai==0.10.5
+pyaudio==0.2.11
+pyttsx3==2.90
+streamlit==0.88.0
+python-dotenv==0.19.1
